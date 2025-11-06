@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+div {
+  color: blue;
+  background-color: red;
+  width: auto;
+  height: 100vh;
+}
